@@ -24,6 +24,9 @@ This repository contains all of my React learning materials and projects
   * [Advanced React Patterns by Kent C. Dodd](https://frontendmasters.com/courses/advanced-react-patterns/)
   * [Testing React Applications by Kent C. Dodd](https://frontendmasters.com/courses/testing-react/)
   * [Ship Production React App](https://egghead.io/lessons/react-confidently-ship-production-react-apps)
+  * [সহজ, সরল, প্রমিত বাংলায় Redux](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%B8%E0%A6%B9%E0%A6%9C-%E0%A6%B8%E0%A6%B0%E0%A6%B2-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A7%9F-redux-a92a49a1c709)
+  * [What Is Redux: A Designer’s Guide](https://www.smashingmagazine.com/2018/07/redux-designers-guide/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_authentication_and_route_handling_using_vue_router&utm_term=2018-07-10)
+  * [Progressive Web Apps With React](https://addyosmani.com/blog/progressive-web-apps-with-react/)
 
 
 [Kent C. Dodd on Egghead.io](https://egghead.io/instructors/kentcdodds)
