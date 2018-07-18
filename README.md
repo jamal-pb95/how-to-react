@@ -2,14 +2,14 @@
 
 This repository contains all of my React learning materials and projects
 
-## [Roadmap by Adam Gołąb](https://github.com/adam-golab/react-developer-roadmap)
+## [React Developer Roadmap by Adam Gołąb](https://github.com/adam-golab/react-developer-roadmap)
 
 
 ## Courses:
-  * [Intro to React by React Official Docs](https://reactjs.org/tutorial/tutorial.html)
+  * <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="ongoing"> [Intro to React by React Official Docs](https://reactjs.org/tutorial/tutorial.html)
   * [JavaScript30 by Wes Bos](https://javascript30.com/)
   * [ES6 and Beyond Workshop by Kent C. Dodd](https://www.youtube.com/playlist?list=PLV5CVI1eNcJgUA2ziIML3-7sMbS7utie5)
-  * [What is JSX by Kent C. Dodd](https://blog.kentcdodds.com/what-is-jsx-310ab98c463e)
+  * ✔ [What is JSX by Kent C. Dodd](https://blog.kentcdodds.com/what-is-jsx-310ab98c463e)
   * Intro to React
       - [Intro to React By Max](https://www.youtube.com/watch?v=UtIOMUQ7nWM&index=8&list=PL6cactdCCnTLkQah9GKzsJmiLbegy4dEk)
       - [Beginner Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
