@@ -13,6 +13,11 @@ This repository contains all of my React learning materials and projects
   * Intro to React
       - [Intro to React By Max](https://www.youtube.com/watch?v=UtIOMUQ7nWM&index=8&list=PL6cactdCCnTLkQah9GKzsJmiLbegy4dEk)
       - [Beginner Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
+  
+  * <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="ongoing"> Codecademy React Courses:
+      - ✔ [Learn ReactJS: Part - I](https://www.codecademy.com/learn/react-101)
+      - <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="ongoing"> [Learn ReactJS: Part - II](https://www.codecademy.com/learn/react-102)
+
   * [Div into Create React App](https://github.com/facebook/create-react-app)
   * [Learn About NPM by NPM Official Docs](https://docs.npmjs.com/)
   * [Learn About JS Module](https://www.youtube.com/watch?v=kTlcu16rSLc&index=23&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
@@ -27,6 +32,13 @@ This repository contains all of my React learning materials and projects
   * [সহজ, সরল, প্রমিত বাংলায় Redux](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%B8%E0%A6%B9%E0%A6%9C-%E0%A6%B8%E0%A6%B0%E0%A6%B2-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A7%9F-redux-a92a49a1c709)
   * [What Is Redux: A Designer’s Guide](https://www.smashingmagazine.com/2018/07/redux-designers-guide/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_authentication_and_route_handling_using_vue_router&utm_term=2018-07-10)
   * [Progressive Web Apps With React](https://addyosmani.com/blog/progressive-web-apps-with-react/)
+
+
+## React Projects:
+  - [x] [Tic Tac Toe Game](https://github.com/jamal-pb95/tic-tac-toe)
+  - [x] Count Down Timer
+    - [Live Preview]()
+    - [Github Repo]()
 
 
 [Kent C. Dodd on Egghead.io](https://egghead.io/instructors/kentcdodds)
