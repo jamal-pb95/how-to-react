@@ -26,6 +26,7 @@ This repository contains all of my React learning materials and projects
   * [A Unified Styling Language by Mark Dalgleish](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660)
   * [Maintainable CSS in React by Kent C. Dodd](https://www.youtube.com/watch?v=3-4KsXPO2Q4&index=2&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
   * [Emotion](https://emotion.sh/)
+  * [POSE - A react animation library](https://popmotion.io/pose/learn/popmotion-get-started/)
   * [Advanced React Patterns by Kent C. Dodd](https://frontendmasters.com/courses/advanced-react-patterns/)
   * [Testing React Applications by Kent C. Dodd](https://frontendmasters.com/courses/testing-react/)
   * [Testing React Components using Enzyme and Jest by John Kariuki](https://scotch.io/tutorials/testing-react-components-with-enzyme-and-jest?utm_source=newsletter&utm_medium=email&utm_campaign=vs_code_tips_user_permissions_in_vue_web_notifications_laravel&utm_term=2018-07-31)
