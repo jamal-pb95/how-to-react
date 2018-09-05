@@ -21,6 +21,7 @@ This repository contains all of my React learning materials and projects
   * [Div into Create React App](https://github.com/facebook/create-react-app)
   * [Learn About NPM by NPM Official Docs](https://docs.npmjs.com/)
   * [Learn About JS Module](https://www.youtube.com/watch?v=kTlcu16rSLc&index=23&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+  * [Complete Intro to React by Brian Holt](https://github.com/btholt/complete-intro-to-react)
   * [Build your own React Router v4 by Tyler McGinnis](https://tylermcginnis.com/build-your-own-react-router-v4/)
   * [Application State Management by Kent C. Dodd](https://blog.kentcdodds.com/application-state-management-66de608ccb24)
   * [A Unified Styling Language by Mark Dalgleish](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660)
