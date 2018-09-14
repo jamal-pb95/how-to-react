@@ -24,7 +24,12 @@ class Api extends Component {
       return <li key={index}>{entry}</li>;
     });
 
-    return <ul>{result}</ul>;
+    return (
+      <div className="container">
+        <h2>API Parse data is here</h2>
+        <ul>{result}</ul>
+      </div>
+    );
   }
 }
 
