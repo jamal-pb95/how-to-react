@@ -1,34 +1,10 @@
 import React, { Component } from 'react';
 import Table from './Table';
+import Form from './Form';
 
 class App extends Component {
   state = {
-    characters: [
-      {
-        'name': 'Jamal Uddin',
-        'job': 'Front End React Developer'
-      },
-      {
-        'name': 'Sajal Datta',
-        'job': 'ASP.NET Developer'
-      },
-      {
-        'name': 'Kazi Riad',
-        'job': 'Web Developer'
-      },
-      {
-        'name': 'Masum Billah',
-        'job': 'DevOps Engineer'
-      },
-      {
-        'name': 'Alamgir Hossain',
-        'job': 'Network Engineer'
-      },
-      {
-        'name': 'Mizan Bhai',
-        'job': 'Database Engineer'
-      }
-    ]
+    characters: []
   };
 
   removeCharacter = index => {
@@ -41,6 +17,11 @@ class App extends Component {
     });
   }
 
+  handleSubmit = character => {
+    this.setState({ characters: [...this.state.characters, character]});
+  }
+
+
   render() {
     const { characters } = this.state;
 
@@ -51,6 +32,8 @@ class App extends Component {
           characterData={characters}
           removeCharacter={this.removeCharacter}
         />
+        <Form handleSubmit={this.handleSubmit} />
+        <p>Please add name and job here...</p>
       </div>
     );
   }
