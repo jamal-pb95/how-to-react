@@ -9,9 +9,6 @@ export const Comment = (props) => {
       <div className="Comment-text">
         {props.text}
       </div>
-      <div className="Comment-date">
-        {formatDate(props.date)}
-      </div>
     </div>
   );
 }
@@ -37,6 +34,3 @@ const UserInfo = props => {
     </div>
   );
 }
-
-// Local Date Formatter
-const formatDate = date => date.toLocaleDateString();
