@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import { Comment } from './components/Comment';
 import Clock from './components/Clock';
+import { Toggle } from './components/Toggle';
 
 const comment = {
   date: new Date(),
@@ -21,6 +22,7 @@ function App() {
         author={comment.author}
       />
       <Clock />
+      <Toggle />
     </div>
   )
 }
