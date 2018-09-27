@@ -3,6 +3,7 @@ import './App.css';
 import { Comment } from './components/Comment';
 import Clock from './components/Clock';
 import { Toggle } from './components/Toggle';
+import NumberList from './components/NumberList';
 
 const comment = {
   date: new Date(),
@@ -23,6 +24,7 @@ function App() {
       />
       <Clock />
       <Toggle />
+      <NumberList />
     </div>
   )
 }
