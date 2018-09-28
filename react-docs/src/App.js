@@ -4,6 +4,7 @@ import { Comment } from './components/Comment';
 import Clock from './components/Clock';
 import { Toggle } from './components/Toggle';
 import NumberList from './components/NumberList';
+import Forms from './components/Forms';
 
 const comment = {
   date: new Date(),
@@ -24,7 +25,10 @@ function App() {
       />
       <Clock />
       <Toggle />
-      <NumberList />
+      <div className="left-aligned">
+        <NumberList />
+        <Forms />
+      </div>
     </div>
   )
 }
