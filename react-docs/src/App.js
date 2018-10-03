@@ -5,6 +5,7 @@ import Clock from './components/Clock';
 import { Toggle } from './components/Toggle';
 import NumberList from './components/NumberList';
 import Forms from './components/Forms';
+import FlavorForm from './components/FlavorForm';
 
 const comment = {
   date: new Date(),
@@ -28,6 +29,7 @@ function App() {
       <div className="left-aligned">
         <NumberList />
         <Forms />
+        <FlavorForm />
       </div>
     </div>
   )
