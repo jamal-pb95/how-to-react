@@ -6,6 +6,7 @@ import { Toggle } from './components/Toggle';
 import NumberList from './components/NumberList';
 import Forms from './components/Forms';
 import FlavorForm from './components/FlavorForm';
+import Reservation from './components/Reservation';
 
 const comment = {
   date: new Date(),
@@ -30,6 +31,7 @@ function App() {
         <NumberList />
         <Forms />
         <FlavorForm />
+        <Reservation />
       </div>
     </div>
   )
