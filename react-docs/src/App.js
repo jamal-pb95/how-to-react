@@ -7,6 +7,7 @@ import NumberList from './components/NumberList';
 import Forms from './components/Forms';
 import FlavorForm from './components/FlavorForm';
 import Reservation from './components/Reservation';
+import Calculator from './components/Calculator';
 
 const comment = {
   date: new Date(),
@@ -33,6 +34,7 @@ function App() {
         <FlavorForm />
         <Reservation />
       </div>
+      <Calculator />
     </div>
   )
 }
