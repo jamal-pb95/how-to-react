@@ -1,13 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import { Comment } from './components/Comment';
-import Clock from './components/Clock';
-import { Toggle } from './components/Toggle';
-import NumberList from './components/NumberList';
-import Forms from './components/Forms';
-import FlavorForm from './components/FlavorForm';
-import Reservation from './components/Reservation';
-import Calculator from './components/Calculator';
+import FilterableProductTable from './PriceList';
 
 const comment = {
   date: new Date(),
@@ -22,19 +15,7 @@ const comment = {
 function App() {
   return (
     <div className="App">
-      <Comment
-        text={comment.text}
-        author={comment.author}
-      />
-      <Clock />
-      <Toggle />
-      <div className="left-aligned">
-        <NumberList />
-        <Forms />
-        <FlavorForm />
-        <Reservation />
-      </div>
-      <Calculator />
+      <FilterableProductTable />
     </div>
   )
 }
