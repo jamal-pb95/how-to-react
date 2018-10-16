@@ -30,16 +30,21 @@ This repository contains all of my React learning materials and projects
   * [Testing React Applications by Kent C. Dodd](https://frontendmasters.com/courses/testing-react/)
   * [Testing React Components using Enzyme and Jest by John Kariuki](https://scotch.io/tutorials/testing-react-components-with-enzyme-and-jest?utm_source=newsletter&utm_medium=email&utm_campaign=vs_code_tips_user_permissions_in_vue_web_notifications_laravel&utm_term=2018-07-31)
   * [Ship Production React App](https://egghead.io/lessons/react-confidently-ship-production-react-apps)
-  * [সহজ, সরল, প্রমিত বাংলায় Redux](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%B8%E0%A6%B9%E0%A6%9C-%E0%A6%B8%E0%A6%B0%E0%A6%B2-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A7%9F-redux-a92a49a1c709)
+  * [সহজ, সরল, প্রমিত বাংলায় Redux](https://goo.gl/duVD9K)
   * [What Is Redux: A Designer’s Guide](https://www.smashingmagazine.com/2018/07/redux-designers-guide/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_authentication_and_route_handling_using_vue_router&utm_term=2018-07-10)
   * [Progressive Web Apps With React](https://addyosmani.com/blog/progressive-web-apps-with-react/)
 
 
 ## React Projects:
   - [x] [Tic Tac Toe Game](https://github.com/jamal-pb95/tic-tac-toe)
-  - [x] Count Down Timer
-    - [Live Preview]()
-    - [Github Repo]()
+  - [x] [Count Down Timer](https://github.com/jamal-pb95/react-countdown-timer)  
+  - [x] [Standard Calculator](https://github.com/jamal-pb95/js-calculator)  
+  - [x] [Reddit Live](https://github.com/jamal-pb95/reddit-live)  
+  - [x] [Metronem Player](https://github.com/jamal-pb95/react-metronome-player)  
+  - [x] [Hacker News Clone](https://github.com/jamal-pb95/hackernews-clone)
+  - [x] [A Fashion Shop](https://github.com/jamal-pb95/react-fashion-shop)
+  - [x] [Pet finder website `Adopt Me!`](https://github.com/jamal-pb95/adopt-me)
+
 
 
 [Kent C. Dodd on Egghead.io](https://egghead.io/instructors/kentcdodds)
