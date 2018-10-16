@@ -10,18 +10,16 @@ This repository contains all of my React learning materials and projects
   * [JavaScript30 by Wes Bos](https://javascript30.com/)
   * [ES6 and Beyond Workshop by Kent C. Dodd](https://www.youtube.com/playlist?list=PLV5CVI1eNcJgUA2ziIML3-7sMbS7utie5)
   * ✔ [What is JSX by Kent C. Dodd](https://blog.kentcdodds.com/what-is-jsx-310ab98c463e)
-  * Intro to React
-      - [Intro to React By Max](https://www.youtube.com/watch?v=UtIOMUQ7nWM&index=8&list=PL6cactdCCnTLkQah9GKzsJmiLbegy4dEk)
-      - [Beginner Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
+  * ✔ Intro to React - [Beginner Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
   
-  * <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="ongoing"> Codecademy React Courses:
+  * ✔ Codecademy React Courses:
       - ✔ [Learn ReactJS: Part - I](https://www.codecademy.com/learn/react-101)
-      - <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="ongoing"> [Learn ReactJS: Part - II](https://www.codecademy.com/learn/react-102)
+      - ✔ [Learn ReactJS: Part - II](https://www.codecademy.com/learn/react-102)
 
-  * [Div into Create React App](https://github.com/facebook/create-react-app)
-  * [Learn About NPM by NPM Official Docs](https://docs.npmjs.com/)
-  * [Learn About JS Module](https://www.youtube.com/watch?v=kTlcu16rSLc&index=23&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
-  * [Complete Intro to React by Brian Holt](https://github.com/btholt/complete-intro-to-react)
+  * ✔ [Div into Create React App](https://github.com/facebook/create-react-app)
+  * ✔ [Learn About NPM by NPM Official Docs](https://docs.npmjs.com/)
+  * ✔ [Learn About JS Module](https://www.youtube.com/watch?v=kTlcu16rSLc&index=23&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+  * ✔ [Complete Intro to React v4 by Brian Holt](https://github.com/btholt/complete-intro-to-react-v4)
   * [Build your own React Router v4 by Tyler McGinnis](https://tylermcginnis.com/build-your-own-react-router-v4/)
   * [Application State Management by Kent C. Dodd](https://blog.kentcdodds.com/application-state-management-66de608ccb24)
   * [A Unified Styling Language by Mark Dalgleish](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660)
