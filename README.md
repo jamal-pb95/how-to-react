@@ -30,8 +30,8 @@ This repository contains all of my React learning materials and projects
   * [Testing React Applications by Kent C. Dodd](https://frontendmasters.com/courses/testing-react/)
   * [Testing React Components using Enzyme and Jest by John Kariuki](https://scotch.io/tutorials/testing-react-components-with-enzyme-and-jest?utm_source=newsletter&utm_medium=email&utm_campaign=vs_code_tips_user_permissions_in_vue_web_notifications_laravel&utm_term=2018-07-31)
   * [Ship Production React App](https://egghead.io/lessons/react-confidently-ship-production-react-apps)
-  * [সহজ, সরল, প্রমিত বাংলায় Redux](https://goo.gl/duVD9K)
-  * [What Is Redux: A Designer’s Guide](https://www.smashingmagazine.com/2018/07/redux-designers-guide/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_authentication_and_route_handling_using_vue_router&utm_term=2018-07-10)
+  * ✔ [সহজ, সরল, প্রমিত বাংলায় Redux](https://goo.gl/duVD9K)
+  * ✔ [What Is Redux: A Designer’s Guide](https://www.smashingmagazine.com/2018/07/redux-designers-guide/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_authentication_and_route_handling_using_vue_router&utm_term=2018-07-10)
   * [Progressive Web Apps With React](https://addyosmani.com/blog/progressive-web-apps-with-react/)
 
 
