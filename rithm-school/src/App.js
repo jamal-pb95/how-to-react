@@ -3,6 +3,7 @@ import './App.css';
 import { FirstComponent } from './components/FirstComponent';
 import { SecondComponent } from './components/SecondComponent';
 import { NamedComponent } from './components/NamedComponent';
+import { Tweet } from './components/Tweet';
 
 class App extends Component {
   render() {
@@ -11,6 +12,9 @@ class App extends Component {
         <FirstComponent />
         <SecondComponent />
         <NamedComponent name={"Jamal Uddin"} />
+        <Tweet name={"Md. Jamal Uddin"}/>
+        <Tweet name={"Alamin Bhai"} />
+        <Tweet name={"Bertho Polo"} />
       </div>
     );
   }
