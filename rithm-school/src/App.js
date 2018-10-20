@@ -4,6 +4,7 @@ import { FirstComponent } from './components/FirstComponent';
 import { SecondComponent } from './components/SecondComponent';
 import { NamedComponent } from './components/NamedComponent';
 import { Tweet } from './components/Tweet';
+import { Person } from './components/Person';
 
 class App extends Component {
   render() {
@@ -15,6 +16,8 @@ class App extends Component {
         <Tweet name={"Md. Jamal Uddin"}/>
         <Tweet name={"Alamin Bhai"} />
         <Tweet name={"Bertho Polo"} />
+        <Person name={"Jamal Uddin"} age={23} />
+        <Person name={"Fahim the React Guru"} age={20} />
       </div>
     );
   }
