@@ -8,9 +8,17 @@ class DogItem extends Component {
   render() {
     return (
       <ul className="Dog">
-        <img src={this.props.dog.image} href={this.props.dog.image} width="100" height="100" alt="" />
+        <img 
+          src={this.props.dog.image} 
+          href={this.props.dog.image} 
+          width="100" 
+          height="100" 
+          alt="" />
         <br />
-        <strong>{this.props.dog.name}</strong>: {this.props.dog.breed} <a href="#" onClick={this.deleteDog.bind(this, this.props.dog.name)}>X</a>
+        <strong>
+          {this.props.dog.name}</strong>: 
+          {this.props.dog.breed} 
+          <a href="https://dogs.com" onClick={this.deleteDog.bind(this, this.props.dog.name)}>X</a>
         <br />
       </ul>
     );
