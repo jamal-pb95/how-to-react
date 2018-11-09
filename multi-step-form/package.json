@@ -2,7 +2,7 @@
   "name": "multi-step-form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jamal-pb95.github.io/multi-step-form",
+  "homepage": "https://jamal-pb95.github.io/how-to-react/multi-step-form",
   "dependencies": {
     "@material-ui/core": "^3.4.0",
     "@material-ui/icons": "^3.0.1",
