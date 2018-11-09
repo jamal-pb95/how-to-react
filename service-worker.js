@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/multi-step-form/precache-manifest.d5a80fe9926804a39d707238ba19c27e.js"
+  "/how-to-react/multi-step-form/precache-manifest.1ae138886cf35de1f9e9dba0b28723ee.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/multi-step-form/index.html", {
+workbox.routing.registerNavigationRoute("/how-to-react/multi-step-form/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,13 +1,13 @@
 {
-  "main.css": "/multi-step-form/static/css/main.27c46681.chunk.css",
-  "main.js": "/multi-step-form/static/js/main.4f6ef1ca.chunk.js",
-  "main.js.map": "/multi-step-form/static/js/main.4f6ef1ca.chunk.js.map",
-  "static/js/1.677538e0.chunk.js": "/multi-step-form/static/js/1.677538e0.chunk.js",
-  "static/js/1.677538e0.chunk.js.map": "/multi-step-form/static/js/1.677538e0.chunk.js.map",
-  "runtime~main.js": "/multi-step-form/static/js/runtime~main.0f83fb44.js",
-  "runtime~main.js.map": "/multi-step-form/static/js/runtime~main.0f83fb44.js.map",
-  "static/css/main.27c46681.chunk.css.map": "/multi-step-form/static/css/main.27c46681.chunk.css.map",
-  "index.html": "/multi-step-form/index.html",
-  "precache-manifest.d5a80fe9926804a39d707238ba19c27e.js": "/multi-step-form/precache-manifest.d5a80fe9926804a39d707238ba19c27e.js",
-  "service-worker.js": "/multi-step-form/service-worker.js"
+  "main.css": "/how-to-react/multi-step-form/static/css/main.27c46681.chunk.css",
+  "main.js": "/how-to-react/multi-step-form/static/js/main.767e11c1.chunk.js",
+  "main.js.map": "/how-to-react/multi-step-form/static/js/main.767e11c1.chunk.js.map",
+  "static/js/1.677538e0.chunk.js": "/how-to-react/multi-step-form/static/js/1.677538e0.chunk.js",
+  "static/js/1.677538e0.chunk.js.map": "/how-to-react/multi-step-form/static/js/1.677538e0.chunk.js.map",
+  "runtime~main.js": "/how-to-react/multi-step-form/static/js/runtime~main.03229ae2.js",
+  "runtime~main.js.map": "/how-to-react/multi-step-form/static/js/runtime~main.03229ae2.js.map",
+  "static/css/main.27c46681.chunk.css.map": "/how-to-react/multi-step-form/static/css/main.27c46681.chunk.css.map",
+  "index.html": "/how-to-react/multi-step-form/index.html",
+  "precache-manifest.1ae138886cf35de1f9e9dba0b28723ee.js": "/how-to-react/multi-step-form/precache-manifest.1ae138886cf35de1f9e9dba0b28723ee.js",
+  "service-worker.js": "/how-to-react/multi-step-form/service-worker.js"
 }
