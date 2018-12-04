@@ -11,6 +11,9 @@ var b;
 
 //Copy array here
 
+// b = a.slice();
+b = [...a];
+
 b.push("newElement");
 
 console.log(a);
