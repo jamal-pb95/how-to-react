@@ -15,6 +15,9 @@ var cars = [
 ];
 
 // Write carInfo() function here
+const carInfo = (car) => {
+  return `Price of my new ${car.brand} is ${car.price} and it is ${car.price === 13000 ? "cheap" : "expensive"} car.`
+}
 
 cars.forEach(car => console.log(carInfo(car)));
 /* Price of my new Honda is 13000$
