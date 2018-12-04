@@ -10,9 +10,7 @@ in the multiplyBy() function.
 
 "use strict";
 
-function multiplyBy(a, mult = 2) {
-  console.log(a * mult);
-}
+const multiplyBy = (a, mult = 2) => console.log(a * mult);
 
 multiplyBy(2);
 // 4
