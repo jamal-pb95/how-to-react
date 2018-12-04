@@ -11,6 +11,7 @@ Don't change lines 14, 19.
 
 var arr = [1, 2];
 
+// const array and objects data is mutable but const variable is not mutable.
 arr.push(3);
 
 console.log(arr);
