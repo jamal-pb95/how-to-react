@@ -6,9 +6,7 @@ using ternary operator.
 
 "use strict";
 
-function isNumber(a) {
-  return typeof a === "number" ? "That's number" : "That's not a number";
-}
+const isNumber = (a) => typeof a === "number" ? "That's number" : "That's not a number";
 
 console.log(isNumber(10));
 // That's number
